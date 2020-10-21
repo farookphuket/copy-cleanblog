@@ -8,9 +8,6 @@
 
 ## how this theme look like
 
----
-
--   date 21 Oct 2020 2:37 p.m. Thailand local time
 
 
 [index_page_pic]:https://i.ibb.co/84KWNCC/cleanblog-21-10-2020.png
@@ -29,5 +26,11 @@ please take a look here the full review here `https://startbootstrap.github.io/s
 
 
 
+##  What I've done?
 
+
+---
+
+-   date 21 Oct 2020 2:37 p.m. Thailand local time
+1.  change default branch "main" to "master" branch
 
