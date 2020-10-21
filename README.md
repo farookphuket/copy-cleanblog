@@ -6,6 +6,28 @@
 
 
 
-# how this theme look like 
+## how this theme look like
 
-please take a look here `https://startbootstrap.github.io/startbootstrap-clean-blog/`
+---
+
+-   date 21 Oct 2020 2:37 p.m. Thailand local time
+
+
+[index_page_pic]:https://i.ibb.co/84KWNCC/cleanblog-21-10-2020.png
+![index page look like][index_page_pic]
+
+
+
+
+
+please take a look here the full review here `https://startbootstrap.github.io/startbootstrap-clean-blog/`
+
+
+[Please go to visit this page](https://startbootstrap.github.io/startbootstrap-clean-blog/)
+
+
+
+
+
+
+
